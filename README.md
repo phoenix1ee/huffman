@@ -1,4 +1,4 @@
-# Shun Fai Lee Lab3
+# S.Lee Lab3
 # Huffman Compression - Encode and Decode
 
 This python package is designed for encryption and decryption using huffman compression.
